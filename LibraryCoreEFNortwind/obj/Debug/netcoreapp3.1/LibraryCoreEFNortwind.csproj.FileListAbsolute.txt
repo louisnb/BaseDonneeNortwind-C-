@@ -1,0 +1,12 @@
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\BaseDonneeNortwind\LibraryCoreEFNortwind\bin\Debug\netcoreapp3.1\LibraryCoreEFNortwind.deps.json
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\BaseDonneeNortwind\LibraryCoreEFNortwind\bin\Debug\netcoreapp3.1\LibraryCoreEFNortwind.dll
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\BaseDonneeNortwind\LibraryCoreEFNortwind\bin\Debug\netcoreapp3.1\LibraryCoreEFNortwind.pdb
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\BaseDonneeNortwind\LibraryCoreEFNortwind\obj\Debug\netcoreapp3.1\LibraryCoreEFNortwind.csprojAssemblyReference.cache
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\BaseDonneeNortwind\LibraryCoreEFNortwind\obj\Debug\netcoreapp3.1\LibraryCoreEFNortwind.AssemblyInfoInputs.cache
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\BaseDonneeNortwind\LibraryCoreEFNortwind\obj\Debug\netcoreapp3.1\LibraryCoreEFNortwind.AssemblyInfo.cs
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\BaseDonneeNortwind\LibraryCoreEFNortwind\obj\Debug\netcoreapp3.1\LibraryCoreEFNortwind.csproj.CoreCompileInputs.cache
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\BaseDonneeNortwind\LibraryCoreEFNortwind\obj\Debug\netcoreapp3.1\LibraryCoreEFNortwind.dll
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\BaseDonneeNortwind\LibraryCoreEFNortwind\obj\Debug\netcoreapp3.1\LibraryCoreEFNortwind.pdb
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\BaseDonneeNortwind\LibraryCoreEFNortwind\bin\Debug\netcoreapp3.1\LibraryCoreEFNortwind.runtimeconfig.json
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\BaseDonneeNortwind\LibraryCoreEFNortwind\bin\Debug\netcoreapp3.1\LibraryCoreEFNortwind.runtimeconfig.dev.json
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\BaseDonneeNortwind\LibraryCoreEFNortwind\obj\Debug\netcoreapp3.1\LibraryCoreEFNortwind.genruntimeconfig.cache
